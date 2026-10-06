@@ -1,0 +1,9 @@
+aiogram==3.4.1
+maxapi
+python-dotenv
+scikit-learn
+joblib
+openai-whisper
+torch
+librosa
+numpy
